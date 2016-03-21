@@ -1,5 +1,8 @@
-class Solution(object):
+'''
+递归+记忆化（算DP么）
+'''
 
+class Solution(object):
 	def calc(self, pos):
 		if self.gives[pos]:
 			return self.gives[pos]

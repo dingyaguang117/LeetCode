@@ -1,3 +1,7 @@
+'''
+双向BFS
+'''
+
 from collections import deque
 from itertools import izip
 

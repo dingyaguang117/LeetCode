@@ -1,3 +1,6 @@
+'''
+正反各遍历一遍，得到最大递增，然后取max
+'''
 class Solution(object):
 	def calc(self, L):
 		length = len(L)

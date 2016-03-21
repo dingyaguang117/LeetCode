@@ -1,3 +1,7 @@
+'''
+递归+记忆化， DP
+'''
+
 class Solution(object):
 
 	def calc(self, i, j):

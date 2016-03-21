@@ -1,3 +1,6 @@
+'''
+动态规划，坑很多，0开头的是非法的
+'''
 class Solution(object):
 
 	def isLegal(self, s):
